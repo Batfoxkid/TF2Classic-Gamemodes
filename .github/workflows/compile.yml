@@ -25,3 +25,4 @@ jobs:
           cd build/addons/sourcemod/scripting
           ./spcomp -E cclassrush.sp -o ../plugins/cclassrush.smx
           ./spcomp -E cdeathrun.sp -o ../plugins/cdeathrun.smx
+          ./spcomp -E ctimesten.sp -o ../plugins/ctimesten.smx
